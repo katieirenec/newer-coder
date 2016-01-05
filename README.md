@@ -1,12 +1,14 @@
-# [new-coder](http://newcoder.io)
+# newer-coder (Apologies to [new-coder](http://newcoder.io)
 
-New Coder tutorials: 5 life jackets to throw the new coder
+A New Coder tutorial: 1 Python data visualization tutorial for a new coder with 1-3 semesters of programming experience.
 
-* Data Visualization
-* Web Scraping
-* APIs
-* Networking
-* GUI
+This fork of new-coder will attempt to smooth out many of the common issues my students found last semester with new-coder.io, and will
+slow down the pace of the new-coder.io tutorials. The instruction of the tutorials will be less "copy-and-paste", and will involve more 
+reflective questions.
+
+It will start with just the data visualization tutorial. 
+
+---- Below is the original README, unchanged ----
 
 General directory layout:
 
